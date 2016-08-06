@@ -1,0 +1,16 @@
+source 'https://rubygems.org'
+
+gem 'rack_csrf'
+gem 'tilt', '>= 2'
+gem 'erubis'
+gem 'roda'
+gem 'sequel'
+gem 'sequel_pg'
+gem 'rack-unreloader'
+
+gem 'capybara'
+gem 'minitest-capybara'
+gem 'rack-test'
+gem 'minitest'
+gem 'minitest-reporters'
+gem 'minitest-hooks', '>= 1.1.0'
